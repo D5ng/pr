@@ -1,3 +1,3 @@
 # my-test-two
 
-# Git test Practice
+Git test Practice
