@@ -1,3 +1,3 @@
-# my-test-repository
+# my-test-two
 
-이건 테스트입니다.
+# Git test Practice
